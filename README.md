@@ -1,4 +1,7 @@
 # Grupo 
 
-Nicolas Ruiz
-Santiago Marquez
+## Integrantes
+
+Nicolas Santiago Ruiz
+
+Santiago Marquez Bello
